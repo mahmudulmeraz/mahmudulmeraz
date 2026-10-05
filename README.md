@@ -31,11 +31,15 @@
 
 **Development**
 
-`Git` `GitHub` `Node.js` `REST APIs`
+`GitHub` `JS` `REST APIs`
 
 **Exploration**
 
 `AI-assisted development` `Automation` `Desktop Applications` `Data & Product Research`
+
+**Others Experiences**
+
+`Video Editing` `Branding` `Management`
 
 ---
 
