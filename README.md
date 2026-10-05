@@ -1,6 +1,6 @@
+![Developer • Builder • Student • Tech Explorer](https://media.licdn.com/dms/image/v2/D5616AQGDp8Yuhi3tqg/profile-displaybackgroundimage-shrink_200_800/B56aEMTdYVIIAU-/0/1791207790470?e=1792627200&v=beta&t=UeRexGXQoiikYouiNQhK99L_OS4-MMkL07bW2-NMPXA)
 ## Hey, I'm Mahmudul Meraz Bhuiyan.
 ### Developer • Builder • Student • Tech Explorer
-![Developer • Builder • Student • Tech Explorer](https://media.licdn.com/dms/image/v2/D5616AQGDp8Yuhi3tqg/profile-displaybackgroundimage-shrink_200_800/B56aEMTdYVIIAU-/0/1791207790470?e=1792627200&v=beta&t=UeRexGXQoiikYouiNQhK99L_OS4-MMkL07bW2-NMPXA)
 
 I build digital experiences, experiment with ideas, and turn concepts into working products.
 
