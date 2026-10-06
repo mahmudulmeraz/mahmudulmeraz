@@ -106,12 +106,6 @@ If you're interested in technology, building products, design, or simply watchin
 
 ![](https://komarev.com/ghpvc/?username=mahmudulmeraz&color=082338)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmeraz&theme=transparent&show_icons=true_&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mahmudulmeraz&theme=transparent)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulmeraz&theme=transparent&show_icons=true&count_private=true)  
-
 ---
 
 <p align="center">
